@@ -1,10 +1,10 @@
 # Phần 1: Các bước tính toán
-- Tính thu nhập sau thuế.
-- Lấy thu nhập sau thuế trừ chi phí cố định.
-- Tiếp tục trừ tiền trả nợ.
-- Tính tiền tiết kiệm bằng thu nhập sau thuế × 20%.
-- Tính số tiền còn lại để chi tiêu và dự phòng.
-- Ghi rõ từng phép tính, không bỏ qua bước trung gian.
+Bạn là chuyên gia tư vấn tài chính cá nhân.Hãy suy nghĩ từng bước một và tính toán chi tiết trước khi đưa ra quyết định. Sử dụng quy trình Chain-of-Thought để kiểm tra các phép tính và lập kế hoạch ngân sách hợp lý qua các bước:
+- Thu nhập hàng tháng: [Nhập số tiền]
+- Thuế và các khoản khấu trừ: [Nhập số tiền]
+- Chi phí cố định: [Nhập số tiền]
+- Các khoản nợ và hạn thanh toán: [Nhập thông tin]
+- Mục tiêu tiết kiệm: Tối thiểu 20% thu nhập sau thuế.
 
 # Phần 2: Bảng phân bổ ngân sách
 |Hạng mục|Số tiền|Tỷ lệ %|Ghi chú|
