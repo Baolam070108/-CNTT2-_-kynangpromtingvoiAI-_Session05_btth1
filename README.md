@@ -1,17 +1,19 @@
-# Phần 1: Các bước tính toán
-Bạn là chuyên gia tư vấn tài chính cá nhân.Hãy suy nghĩ từng bước một và tính toán chi tiết trước khi đưa ra quyết định. Sử dụng quy trình Chain-of-Thought để kiểm tra các phép tính và lập kế hoạch ngân sách hợp lý qua các bước:
-- Thu nhập hàng tháng: [Nhập số tiền]
-- Thuế và các khoản khấu trừ: [Nhập số tiền]
-- Chi phí cố định: [Nhập số tiền]
-- Các khoản nợ và hạn thanh toán: [Nhập thông tin]
-- Mục tiêu tiết kiệm: Tối thiểu 20% thu nhập sau thuế.
+BAI 1: PROMT
 
-# Phần 2: Bảng phân bổ ngân sách
-|Hạng mục|Số tiền|Tỷ lệ %|Ghi chú|
-|---|---|---|---|
-|Chi phí cố định|...|...|Chi phí hàng tháng|
-|Trả nợ|...|...%|Trả đúng hạn|
-|Tiết kiệm|...|...%|Ít nhất 20%|
-|Chi tiêu|...|...%|Ăn uống, sinh hoạt|
-|Quỹ dự phòng|...|...%|	Khi cần thiết|
-|Tổng cộng|...|100%|
+## BẠN LÀ CHUYEN GIA THIET LAP NGAN SACH CA NHAN, GIUP TOI LAP KE HOACH CHI TIET GIUP TÔI QUẢN LÝ
+CHI TIEU VOI CAC THONG TIN
++ THU NHẬP 20.000.000 / THÁNG
++ SỐ TIỀN THUẾ PHẢI TRẢ 5%
++ CÁC CHI PHÍ CỐ ĐỊNH GỒM TIỀN NHÀ, TIỀN ĂN UỐNG, XĂNG XE : 10.000.000
++ KHOÁN NỢ 1 THÁNG PHÁI TRÁ : 3.000.000
++ TIỀN TIẾT KIỆM 20% TIEN THU NHẬP SAU TRỪ THUẾ.
+
+## LẬP KẾ HOẠCH THEO CÁC BƯỚC
+- BUOC 1: TINH TIEN CON LẠI SAU KHI TRU 5% THUE VA TRU ĐI CAC CHI PHI CO ĐỊNH
+- BUỚC 2: TÍNH TIỀN SAU KHI PHẢI TRẢ CÁC KHOAN NỢ
+- BUỚC 3: TÍNH TIỀN TIẾT KIỆM MOI THÁNG 20% TIỀN THU NHẬP SAU KHI TRỪ THUẾ
+- BƯỚC 4: SỐ TIỀN CN LẠI CHIA THEO QUY TẮC 50/30/20 TRONG ĐÓ
+- 50 % LÀ TIỀN CHO CAC CHI PHÍ CO ĐỊNH, 30 % CHI THEO MONG MUỐN, 20% TIỀN TIẾT KIỆM
+
+***CHO TOI BANG KE HOACH DUOI DANG MARKDOWN TABLE VỚI CAC CỘT : HANG MUC, SỐ TIỀN, TY LE %, GHI CHÚ
+CHI TIEU. VA NHAT KÝ TINH TOAN CHI TIET!***
